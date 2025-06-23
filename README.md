@@ -3,7 +3,8 @@
 This guide will help you set up the backend and frontend of the project.
 
 ---
-
+npm install express mongoose passport passport-google-oauth20 jsonwebtoken cookie-parser cors dotenv
+npm install --save-dev nodemon
 ## 📦 Backend Setup
 
 ### 1. Install Dependencies
@@ -11,6 +12,8 @@ This guide will help you set up the backend and frontend of the project.
 Navigate to the `backend` folder and run:
 
 ```bash
+npm install express mongoose passport passport-google-oauth20 jsonwebtoken cookie-parser cors dotenv
+npm install --save-dev nodemon
 npm install
 ```
 
@@ -36,6 +39,7 @@ CLIENT_URL=http://localhost:5173
 Navigate to the `frontend` folder and run:
 
 ```bash
+npm install react-router-dom axios
 npm install
 ```
 
