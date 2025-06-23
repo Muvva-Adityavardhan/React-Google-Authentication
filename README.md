@@ -1,4 +1,4 @@
-# 🛠️ Full Stack Project Setup Guide
+# 🛠️ Project Setup Guide
 
 This guide will help you set up the backend and frontend of the project.
 
